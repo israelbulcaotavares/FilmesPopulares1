@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FilmesPopulares</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detalhes">DetalhesActivity</string>
+    <string name="content_description_movie_poster">movie_poster</string>
+    <string name="movie_list_not_connected">Sem conexão</string>
+    <string name="movie_list_no_results">Nenhum resultado</string>
+
+    <string name="menu_filter_popular">Mais populares</string>
+    <string name="menu_filter_top_rated">Mais Votados</string>
+    <string name="search">Procurar</string>
+    <string name="menu_filter_filmes_cinema">Nos cinemas</string>
+
+    <string name="erro_criar_url">Problema ao criar o URL</string>
+    <string name="GET">GET</string>
+    <string name="CODIGO_DE_ERRO_RESPOSTA">Codigo de resposta de erro</string>
+    <string name="ERRO_RECUPERAR_JSON_RESULTADOS">Problema ao recuperar os resultados do JSON do Filme</string>
+    <string name="ERRO_LEITURA_JSON">Problema ao ler a resposta JSON</string>
+    <string name="OBJETO_JSON_NAO_ENCONTRADO">Não encontra o objeto JSON</string>
+    <string name="JSON_EXCEPTION">JSON Exception</string>
+    <string name="number">9.3</string>
+</resources>
